@@ -1,13 +1,13 @@
 criaCartao(
-    'Tecnologia na moda ',
+    'Saúde Mental ',
     'Como a inteligência artificial pode ajudar a fazer roupas novas?',
-    'A inteligência artificial pode ajudar a criar novos estilos, escolher cores e até ajudar a montar looks que combinam bem.'
+    'Saúde mental é o bem-estar emocional, psicológico e social de uma pessoa.'
 )
 
 criaCartao(
-    'Moda e Tecnologia: O Futuro das Roupas Inteligentes',
-    'O que são roupas inteligentes?',
-    'Roupas inteligentes usam tecnologia, como sensores, para monitorar sua saúde ou ajustar a temperatura.',
+    'Saúde Mental',
+    'Por que cuidar da saúde mental é importante?',
+    ' Porque ela afeta como pensamos, sentimos e agimos, e ajuda a lidar com o estresse e os desafios do dia a dia.',
 )
 
 criaCartao(
