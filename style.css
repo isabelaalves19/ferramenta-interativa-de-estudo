@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('Captura\ de\ tela\ 2025-08-02\ 214813.png');
+   background: url("Captura de tela 2025-08-02 214813.png");
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,9 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('Captura\ de\ tela\ 2025-08-02\ 214813.png'), no-repeat cover;
+        background: url('Captura de tela 2025-08-02 214813.png');
+         background-repeat: no-repeat;
+    background-size: cover;
     }
 
     .cartao {
