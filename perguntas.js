@@ -1,6 +1,6 @@
 criaCartao(
     'Saúde Mental ',
-    'Como a inteligência artificial pode ajudar a fazer roupas novas?',
+    'O que é saúde mental?',
     'Saúde mental é o bem-estar emocional, psicológico e social de uma pessoa.'
 )
 
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Saúde Mental',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Saúde Mental',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
