@@ -1,11 +1,11 @@
 :root {
-    --text-color: #efdbec;
-    --card-front-color: #be2f9b;
-    --card-back-color: #ee4298;
+    --text-color: #d7def7;
+    --card-front-color: #4d7ada;
+    --card-back-color: #428cee;
 }
 
 body {
-    background: url('');
+    background: url('Captura\ de\ tela\ 2025-08-02\ 214813.png');
     font-family: Bai Jamjuree;
 }
 
